@@ -36,13 +36,12 @@ Our shell was built and tested on  Ubuntu 14.04 LTS.
 ```
 ls -la
 ```
-![screenshot of shell](https://user-images.githubusercontent.com/30075600/114757753-e50c2180-9d64-11eb-95ea-fb9bba776c8c.png)
 
-## Contributors :sunglasses::muscle:
+## Contributors 
 * [**Mickyas Gessese**](https://github.com/bmike0059)
 * [**Rediet Aschenaki**](https://github.com/REDXIXR)
 
-## Acknowledgments :pray:
+## Acknowledgments
 - Our fellow cohort members.
 - The creators of the C language.
 - Our software engineer-in-residence.
